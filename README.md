@@ -20,6 +20,8 @@ Preview on your mobile device with Bravo Vision: <https://www.bravostudio.app/do
 
 ## More notes
 
+[A quick summary of other design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).
+
 Just use Bravo tags in [Figma](https://github.com/hchiam/learning-figma) frames (for special elements and actions): <https://www.notion.so/Bravo-Tags-145bec845f0b4afaa9e3bb8321b218a8>
 
 Open video: [`[action:openvideo:https://google.com/test.mp4 or YouTube link]`](https://www.notion.so/Bravo-Tags-145bec845f0b4afaa9e3bb8321b218a8)
